@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MaximeFELTRIN
+- 👀 I’m interested in developpement
+- 🌱 I’m currently learning the base of developpement at the ESTIAM school in Paris
+- 📫 How to reach me :
+    -mail : maxime-jules-elliott.feltrin@estiam.com
